@@ -12,7 +12,7 @@ public enum Converting {
 
     private int arabic;
     Converting(int arabic){
-        this.arabic = arabic;
+         this.arabic = arabic;
     }
     public int getArabic(){
         return arabic;
@@ -23,3 +23,4 @@ public enum Converting {
 //    }
 
 }
+
